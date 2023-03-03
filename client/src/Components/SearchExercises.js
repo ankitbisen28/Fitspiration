@@ -10,7 +10,7 @@ export const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
   useEffect(() => {
     const fetchExerciseData = async () => {
       const bodypartsData = await fetchData(
-        "http://localhost:5000/exercises/bodyparts",
+        "https://exercise-web-app.onrender.com/exercises/bodyparts",
         exerciseOptions
       );
       setBodyParts(["all", ...bodypartsData]);
@@ -22,7 +22,7 @@ export const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
   const handleSearch = async () => {
     if (search) {
       const exercisesData = await fetchData(
-        `http://localhost:5000/Exercises/`,
+        `https://exercise-web-app.onrender.com/exercises/`,
         exerciseOptions
       );
       const searchedExercises = exercisesData.filter(

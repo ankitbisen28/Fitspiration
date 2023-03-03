@@ -17,7 +17,7 @@ export const ExerciseDetail = () => {
 
   useEffect(()=> {
     const fetchExercisesData = async () => {
-       const exerciseURL = "http://localhost:5000/exercises/exercise";
+       const exerciseURL = "https://exercise-web-app.onrender.com/exercises/exercise";
        const youtubeSearchURL = "https://youtube-search-and-download.p.rapidapi.com"
 
        const exerciseDetailData = await fetchData(`${exerciseURL}/${id}`, exerciseOptions);

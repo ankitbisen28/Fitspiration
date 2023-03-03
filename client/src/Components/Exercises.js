@@ -26,9 +26,9 @@ export const Exercises = ({ exercises, bodyPart, setExercises }) => {
       let exercisesData = [];
       
       if(bodyPart === "all"){
-        exercisesData = await fetchData('http://localhost:5000/Exercises/', exerciseOptions);
+        exercisesData = await fetchData('https://exercise-web-app.onrender.com/exercises/', exerciseOptions);
       }else{
-        exercisesData = await fetchData(`http://localhost:5000/Exercises/bodyparts/${bodyPart}`, exerciseOptions)
+        exercisesData = await fetchData(`https://exercise-web-app.onrender.com/exercises/bodyparts/${bodyPart}`, exerciseOptions)
       }
 
       setExercises(exercisesData)
