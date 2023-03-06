@@ -1,6 +1,7 @@
 [
   {
     "name": "Hip Circles (Prone)",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FHip%20Circles.gif?alt=media&token=86da8396-16f5-4279-92fe-0197ed210392",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "None",
@@ -9,6 +10,7 @@
   },
   {
     "name": "Standing Hip Circles",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FHip%20Circles.gif?alt=media&token=86da8396-16f5-4279-92fe-0197ed210392",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -17,6 +19,7 @@
   },
   {
     "name": "Clam",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClam.gif?alt=media&token=d8054b29-bf4e-478b-a6dc-c844775029e8",
     "type": "strength",
     "muscle": "abductors",
     "equipment": "None",
@@ -25,6 +28,7 @@
   },
   {
     "name": "Iliotibial band SMR",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIliotibial%20band%20SMR.gif?alt=media&token=0cdfae67-2225-48e6-86a1-04c78b4a16f9",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "foam_roll",
@@ -33,6 +37,7 @@
   },
   {
     "name": "Thigh abductor",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FThigh%20abductor.gif?alt=media&token=51abd617-7a05-43fd-9b6a-ef8f458ce4ea",
     "type": "strength",
     "muscle": "abductors",
     "equipment": "machine",
@@ -41,6 +46,7 @@
   },
   {
     "name": "Fire Hydrant",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FFire%20Hydrant.gif?alt=media&token=6350662b-ce78-41cc-9ed4-ffb3f0bb67df",
     "type": "strength",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -49,6 +55,7 @@
   },
   {
     "name": "Windmills",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWindmills.gif?alt=media&token=b82417d3-e499-409e-b072-7a10cfd0cbf7",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -57,6 +64,7 @@
   },
   {
     "name": "Monster Walk",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FMonster%20Walk.gif?alt=media&token=45593130-cf1b-426e-906b-8b7a5cb12bb6",
     "type": "strength",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -65,6 +73,7 @@
   },
   {
     "name": "IT Band and Glute Stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIT%20Band%20and%20Glute%20Stretch.gif?alt=media&token=7b6223c7-1b49-4c6c-9e81-6539dc6d70a7",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -73,6 +82,7 @@
   },
   {
     "name": "Single-leg lying cross-over stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-leg%20lying%20cross-over%20stretch.gif?alt=media&token=0393eea3-af71-4df0-b377-077d410d1f93",
     "type": "stretching",
     "muscle": "abductors",
     "equipment": "body_only",
@@ -81,6 +91,7 @@
   },
   {
     "name": "Landmine twist",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLandmine-Twist.gif?alt=media&token=94b91467-532b-49a3-bea1-0e840d526689",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "other",
@@ -89,6 +100,7 @@
   },
   {
     "name": "Elbow plank",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FElbow%20plank.gif?alt=media&token=e3e50f79-a92e-4b5e-9760-553e25f2e258",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "body_only",
@@ -97,6 +109,7 @@
   },
   {
     "name": "Bottoms Up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBottoms%20Up.gif?alt=media&token=088c60c5-7a4b-4f27-a4b1-8ae5edba7fae",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "body_only",
@@ -105,6 +118,7 @@
   },
   {
     "name": "Suspended ab fall-out",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSuspended-Ab-Fall-out.gif?alt=media&token=108d4e52-98a2-4571-8045-86b67cda892d",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "other",
@@ -113,6 +127,7 @@
   },
   {
     "name": "Dumbbell V-Sit Cross Jab",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDumbbell%20V-Sit%20Cross%20Jab.gif?alt=media&token=5d5de317-71e5-4ceb-a1cd-60b103a76211",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "dumbbell",
@@ -121,6 +136,7 @@
   },
   {
     "name": "Standing cable low-to-high twist",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding-Cable-low-to-high-Twist.gif?alt=media&token=1a3495fa-f164-463d-ab88-d88fd3a7630c",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "cable",
@@ -129,6 +145,7 @@
   },
   {
     "name": "Dumbbell spell caster",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDumbbell%20spell%20caster.gif?alt=media&token=958f9184-77cc-407f-9d4f-4040f30b464d",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "dumbbell",
@@ -137,6 +154,7 @@
   },
   {
     "name": "Decline reverse crunch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDecline%20reverse%20crunch.gif?alt=media&token=1e58c3bf-3008-4cfd-b9ec-0a403b13d8c1",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "other",
@@ -145,6 +163,7 @@
   },
   {
     "name": "Spider crawl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSpider%20crawl.gif?alt=media&token=5b8f36f8-e499-47cd-8ed7-b2454e2f1f8d",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "body_only",
@@ -153,6 +172,7 @@
   },
   {
     "name": "Cocoons",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FCocoons.gif?alt=media&token=0c8ebc86-6cef-46c6-938c-47a806f45570",
     "type": "strength",
     "muscle": "abdominals",
     "equipment": "body_only",
@@ -161,6 +181,7 @@
   },
   {
     "name": "Thigh adductor",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FThigh%20adductor.gif?alt=media&token=ba338013-8b6d-49be-b8e1-7f0459429f55",
     "type": "strength",
     "muscle": "adductors",
     "equipment": "machine",
@@ -169,6 +190,7 @@
   },
   {
     "name": "Groiners",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FGroiners.gif?alt=media&token=a598810b-61b3-4cd2-a330-0b73c4f88760",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "body_only",
@@ -177,6 +199,7 @@
   },
   {
     "name": "Band Hip Adductions",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBand%20Hip%20Adductions.gif?alt=media&token=fbb0b047-58e7-4bfc-aa63-379a0a26119e",
     "type": "strength",
     "muscle": "adductors",
     "equipment": "bands",
@@ -185,6 +208,7 @@
   },
   {
     "name": "Side Leg Raises",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSide%20Leg%20Raises.webp?alt=media&token=e7509d8d-6a47-44a2-943f-df31a33edaec",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "body_only",
@@ -193,6 +217,7 @@
   },
   {
     "name": "Lateral hop",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLateral%20hop.gif?alt=media&token=615e707e-d771-4982-8ceb-c809356a5e81",
     "type": "plyometrics",
     "muscle": "adductors",
     "equipment": "body_only",
@@ -201,6 +226,7 @@
   },
   {
     "name": "Groin and Back Stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FGroin%20and%20Back%20Stretch.gif?alt=media&token=98877b84-02a3-4e9c-a5a0-bf6d32fec04b",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "none",
@@ -209,6 +235,7 @@
   },
   {
     "name": "Adductor SMR",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FAdductor%20SMR.gif?alt=media&token=0f5d1373-434f-4a58-99ff-031932dd2ae4",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "foam_roll",
@@ -217,6 +244,7 @@
   },
   {
     "name": "Side Lying Groin Stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSide%20Lying%20Groin%20Stretch.gif?alt=media&token=2d5ff42b-71d6-49e3-b6f6-ed3bd3d19122",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "body_only",
@@ -225,6 +253,7 @@
   },
   {
     "name": "Adductor/Groin",
+    "gifUrl" : "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FAdductor%20Groin.gif?alt=media&token=cc524295-6463-42d6-8301-7ab93da0012c",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "none",
@@ -233,6 +262,7 @@
   },
   {
     "name": "Lying Bent Leg Groin",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLying%20Bent%20Leg%20Groin.gif?alt=media&token=45f130e2-024a-4b3a-b9f9-aa1586e50e94",
     "type": "stretching",
     "muscle": "adductors",
     "equipment": "other",
@@ -241,6 +271,7 @@
   },
   {
     "name": "Incline Hammer Curls",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIncline%20Hammer%20Curls.gif?alt=media&token=34f4f396-d152-40ee-9598-eb264dfe78ba",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "dumbbell",
@@ -249,6 +280,7 @@
   },
   {
     "name": "Wide-grip barbell curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWide-grip%20barbell%20curl.gif?alt=media&token=bb27b1b6-0baf-4e66-8252-5d06a588a8ee",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "barbell",
@@ -257,6 +289,7 @@
   },
   {
     "name": "EZ-bar spider curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FEZ-bar%20spider%20curl.gif?alt=media&token=dce24911-6dc1-4a0d-87ca-59e03f98eb7f",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "barbell",
@@ -265,6 +298,7 @@
   },
   {
     "name": "Hammer Curls",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FHammer%20Curls.gif?alt=media&token=7a81b1fc-5d7c-4fed-8c8c-14b1603ad1db",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "dumbbell",
@@ -273,6 +307,7 @@
   },
   {
     "name": "EZ-Bar Curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FEZ-Bar%20Curl.jpeg?alt=media&token=778cc495-2aba-4f8c-b2d9-fa95e0062b08",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "e-z_curl_bar",
@@ -281,6 +316,7 @@
   },
   {
     "name": "Zottman Curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FZottman%20Curl.gif?alt=media&token=94873240-c4ad-4263-80c7-71385b3f3c04",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "None",
@@ -289,6 +325,7 @@
   },
   {
     "name": "Biceps curl to shoulder press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBiceps%20curl%20to%20shoulder%20press.gif?alt=media&token=e89e57f6-0145-4304-9f15-35cb42b5c2b2",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "dumbbell",
@@ -297,6 +334,7 @@
   },
   {
     "name": "Barbell Curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWide-grip%20barbell%20curl.gif?alt=media&token=bb27b1b6-0baf-4e66-8252-5d06a588a8ee",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "barbell",
@@ -305,6 +343,7 @@
   },
   {
     "name": "Concentration curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FConcentration-Curl.gif?alt=media&token=2e0e03ea-45d3-459a-9c82-edfcd32f4443",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "dumbbell",
@@ -313,6 +352,7 @@
   },
   {
     "name": "Flexor Incline Dumbbell Curls",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FFlexor-Incline-Dumbbell-Curls.gif?alt=media&token=95593a5d-75a9-4080-bc6a-ad367a13b07a",
     "type": "strength",
     "muscle": "biceps",
     "equipment": "dumbbell",
@@ -321,6 +361,7 @@
   },
   {
     "name": "Smith Machine Calf Raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2Fsmith-machine-calf-raise-exercise-1.gif?alt=media&token=50ac40d2-9e97-4f61-b0d9-08f56ee13826",
     "type": "strength",
     "muscle": "calves",
     "equipment": "machine",
@@ -329,6 +370,7 @@
   },
   {
     "name": "Standing Calf Raises",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding%20Calf%20Raises.gif?alt=media&token=2e448a18-6e00-41a1-8f65-0b75fbf8988e",
     "type": "strength",
     "muscle": "calves",
     "equipment": "machine",
@@ -337,6 +379,7 @@
   },
   {
     "name": "Seated Calf Raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Seated%20Calf%20Raise.gif?alt=media&token=964579a0-5dc9-4a6e-9d56-85c8a94cc20d",
     "type": "strength",
     "muscle": "calves",
     "equipment": "machine",
@@ -345,6 +388,7 @@
   },
   {
     "name": "Calf Press On The Leg Press Machine",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FCalf-Raise-on-Leg-Press-Machine.gif?alt=media&token=c0bffc66-5c80-4e76-ae37-e8384e07da15",
     "type": "strength",
     "muscle": "calves",
     "equipment": "machine",
@@ -353,6 +397,7 @@
   },
   {
     "name": "Rocking Standing Calf Raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRocking%20Standing%20Calf%20Raise.gif?alt=media&token=72b49990-c72b-4dbd-8b12-929ade5179a5",
     "type": "strength",
     "muscle": "calves",
     "equipment": "barbell",
@@ -361,6 +406,7 @@
   },
   {
     "name": "Calf Press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPush-press.gif?alt=media&token=bfacbca1-bfa1-408b-867b-24b7aa7125a7",
     "type": "strength",
     "muscle": "calves",
     "equipment": "machine",
@@ -369,6 +415,7 @@
   },
   {
     "name": "Standing barbell calf raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding-Barbell-Calf-Raise.gif?alt=media&token=85ae7156-8525-404d-93fd-a9f4743f7bf6",
     "type": "strength",
     "muscle": "calves",
     "equipment": "barbell",
@@ -377,6 +424,7 @@
   },
   {
     "name": "Barbell Seated Calf Raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Seated%20Calf%20Raise.gif?alt=media&token=964579a0-5dc9-4a6e-9d56-85c8a94cc20d",
     "type": "strength",
     "muscle": "calves",
     "equipment": "barbell",
@@ -385,6 +433,7 @@
   },
   {
     "name": "Balance Board",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBalance%20Board.gif?alt=media&token=240ab219-070b-4b46-893f-763a175f1f6a",
     "type": "strength",
     "muscle": "calves",
     "equipment": "other",
@@ -393,6 +442,7 @@
   },
   {
     "name": "Weighted donkey calf raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWeighted%20donkey%20calf%20raise.gif?alt=media&token=e07b2228-4191-4405-8f53-f3ad4b86dd74",
     "type": "strength",
     "muscle": "calves",
     "equipment": "other",
@@ -401,6 +451,7 @@
   },
   {
     "name": "Dumbbell Bench Press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDumbbell%20Bench%20Press.gif?alt=media&token=dfecc305-1f38-4141-bacd-8fd14d070cf9",
     "type": "strength",
     "muscle": "chest",
     "equipment": "dumbbell",
@@ -409,6 +460,7 @@
   },
   {
     "name": "Pushups",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPushups.gif?alt=media&token=ed39ec3e-6e91-4725-9622-34c566b540ac",
     "type": "strength",
     "muscle": "chest",
     "equipment": "body_only",
@@ -417,6 +469,7 @@
   },
   {
     "name": "Close-grip bench press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClose-grip%20bench%20press.gif?alt=media&token=43d3d404-ff41-4bed-8c66-5c9e56c301a2",
     "type": "strength",
     "muscle": "chest",
     "equipment": "barbell",
@@ -425,6 +478,7 @@
   },
   {
     "name": "Dumbbell Flyes",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDecline%20Dumbbell%20Flyes.gif?alt=media&token=22a2ab7d-ac9b-4327-bc73-f7d0104b5278",
     "type": "strength",
     "muscle": "chest",
     "equipment": "dumbbell",
@@ -433,6 +487,7 @@
   },
   {
     "name": "Incline dumbbell bench press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIncline%20dumbbell%20bench%20press.gif?alt=media&token=f9f77890-de11-45de-9ac1-834539dedf8d",
     "type": "strength",
     "muscle": "chest",
     "equipment": "dumbbell",
@@ -441,6 +496,7 @@
   },
   {
     "name": "Low-cable cross-over",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLow-cable%20cross-over.gif?alt=media&token=23409d17-c893-409f-9a31-6a5cf74b7aae",
     "type": "strength",
     "muscle": "chest",
     "equipment": "cable",
@@ -449,6 +505,7 @@
   },
   {
     "name": "Barbell Bench Press - Medium Grip",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Bench%20Press%20-%20Medium%20Grip.gif?alt=media&token=10c1c533-fb02-43d3-8653-e7c53e9c789d",
     "type": "strength",
     "muscle": "chest",
     "equipment": "barbell",
@@ -457,6 +514,7 @@
   },
   {
     "name": "Chest dip",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FChest%20dip.jpeg?alt=media&token=2a007e87-f455-415d-9c17-e51f4edf1ade",
     "type": "strength",
     "muscle": "chest",
     "equipment": "other",
@@ -465,6 +523,7 @@
   },
   {
     "name": "Decline Dumbbell Flyes",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDecline%20Dumbbell%20Flyes.gif?alt=media&token=22a2ab7d-ac9b-4327-bc73-f7d0104b5278",
     "type": "strength",
     "muscle": "chest",
     "equipment": "dumbbell",
@@ -473,6 +532,7 @@
   },
   {
     "name": "Bodyweight Flyes",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBodyweight%20Flyes.gif?alt=media&token=c17bf69b-547b-4d68-a9d4-4526e02b9236",
     "type": "strength",
     "muscle": "chest",
     "equipment": "e-z_curl_bar",
@@ -481,6 +541,7 @@
   },
   {
     "name": "Rickshaw Carry",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRickshaw%20Carry.gif?alt=media&token=d5acd433-322f-45be-a3f0-00e10fbb4939",
     "type": "strongman",
     "muscle": "forearms",
     "equipment": "other",
@@ -489,6 +550,7 @@
   },
   {
     "name": "Palms-down wrist curl over bench",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPalms-down%20wrist%20curl%20over%20bench.jpeg?alt=media&token=4d542222-e102-4ec5-9405-f144350130e8",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "barbell",
@@ -497,6 +559,7 @@
   },
   {
     "name": "Straight-bar wrist roll-up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStraight-bar%20wrist%20roll-up.gif?alt=media&token=19853528-955d-44bb-8362-61cce0a62d1f",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "None",
@@ -505,6 +568,7 @@
   },
   {
     "name": "Dumbbell farmer's walk",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStraight-bar%20wrist%20roll-up.gif?alt=media&token=19853528-955d-44bb-8362-61cce0a62d1f",
     "type": "strongman",
     "muscle": "forearms",
     "equipment": "other",
@@ -513,6 +577,7 @@
   },
   {
     "name": "Palms-up wrist curl over bench",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPalms-up%20wrist%20curl%20over%20bench.gif?alt=media&token=d0318019-5fae-4a90-9d2a-ffd6c6664aa3",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "barbell",
@@ -521,6 +586,7 @@
   },
   {
     "name": "Standing behind-the-back wrist curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding%20behind-the-back%20wrist%20curl.gif?alt=media&token=8b772bc1-83d0-4305-aeae-6bfc07af7201",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "barbell",
@@ -529,6 +595,7 @@
   },
   {
     "name": "Seated finger curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding%20behind-the-back%20wrist%20curl.gif?alt=media&token=8b772bc1-83d0-4305-aeae-6bfc07af7201",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "barbell",
@@ -537,6 +604,7 @@
   },
   {
     "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSeated%20Two-Arm%20Palms-Up%20Low-Pulley%20Wrist%20Curl.gif?alt=media&token=f658168b-6fad-409f-b408-bb31fce7fc48",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "cable",
@@ -545,6 +613,7 @@
   },
   {
     "name": "Wrist Roller",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWrist%20Roller.gif?alt=media&token=32a4d46e-d26b-4eb1-a7de-6d90eeac3005",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "other",
@@ -553,6 +622,7 @@
   },
   {
     "name": "Seated One-Arm Dumbbell Palms-Up Wrist Curl",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSeated%20One-Arm%20Dumbbell%20Palms-Up%20Wrist%20Curl.gif?alt=media&token=c193ea41-dc24-4ea2-8f27-8b68771faee2",
     "type": "strength",
     "muscle": "forearms",
     "equipment": "dumbbell",
@@ -561,6 +631,7 @@
   },
   {
     "name": "Barbell glute bridge",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20glute%20bridge.jpeg?alt=media&token=027e43b3-a85f-4b2c-ad93-45b923482bbe",
     "type": "powerlifting",
     "muscle": "glutes",
     "equipment": "barbell",
@@ -569,6 +640,7 @@
   },
   {
     "name": "Barbell Hip Thrust",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Hip%20Thrust.gif?alt=media&token=d6be453b-227c-41e3-b2e9-361c91836b06",
     "type": "powerlifting",
     "muscle": "glutes",
     "equipment": "barbell",
@@ -577,6 +649,7 @@
   },
   {
     "name": "Single-leg cable hip extension",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-leg%20cable%20hip%20extension.gif?alt=media&token=857dd388-c838-4562-8cb6-a4ee50049732",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "cable",
@@ -585,6 +658,7 @@
   },
   {
     "name": "Glute bridge",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-leg%20glute%20bridge.gif?alt=media&token=1e0798c0-6c18-4d58-a58e-210f20b6967f",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "body_only",
@@ -593,6 +667,7 @@
   },
   {
     "name": "Single-leg glute bridge",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-leg%20glute%20bridge.gif?alt=media&token=1e0798c0-6c18-4d58-a58e-210f20b6967f",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "body_only",
@@ -601,6 +676,7 @@
   },
   {
     "name": "Step-up with knee raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStep-up%20with%20knee%20raise.gif?alt=media&token=dfcce710-f983-4b0b-8975-087f8545077c",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "body_only",
@@ -609,6 +685,7 @@
   },
   {
     "name": "Kettlebell thruster",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FKettlebell%20thruster.gif?alt=media&token=2bc847c7-adcd-49e5-813a-a529eeb6f61b",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "kettlebells",
@@ -617,6 +694,7 @@
   },
   {
     "name": "Kneeling Squat",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FKneeling%20Squat.jpeg?alt=media&token=1f99737a-e99f-4096-acd3-b85423f5e935",
     "type": "powerlifting",
     "muscle": "glutes",
     "equipment": "barbell",
@@ -625,6 +703,7 @@
   },
   {
     "name": "Flutter Kicks",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FFlutter%20Kicks.jpeg?alt=media&token=f028b96b-c1d8-4d2a-9225-e52df3493f28",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "None",
@@ -633,6 +712,7 @@
   },
   {
     "name": "Glute Kickback",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FGlute%20Kickback.gif?alt=media&token=0dfdf528-0822-4e97-80d5-62e8a6560c3a",
     "type": "strength",
     "muscle": "glutes",
     "equipment": "body_only",
@@ -641,6 +721,7 @@
   },
   {
     "name": "Barbell Deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Deadlift.jpeg?alt=media&token=950398a5-c41e-4fcb-a3d4-bdcc343a4629",
     "type": "strength",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -649,6 +730,7 @@
   },
   {
     "name": "Romanian Deadlift With Dumbbells",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRomanian%20Deadlift%20With%20Dumbbells.gif?alt=media&token=db4611a6-e9b4-423b-bbad-7b880dbd6d04",
     "type": "strength",
     "muscle": "hamstrings",
     "equipment": "dumbbell",
@@ -657,6 +739,7 @@
   },
   {
     "name": "Clean Deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClean%20Deadlift.jpeg?alt=media&token=ddea8876-f0f1-4d64-adc7-df7cfe39cf54",
     "type": "olympic_weightlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -665,6 +748,7 @@
   },
   {
     "name": "Sumo deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSumo%20deadlift.gif?alt=media&token=cb3a2e50-6574-4b90-acb0-7ebe3a144675",
     "type": "powerlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -673,6 +757,7 @@
   },
   {
     "name": "Romanian Deadlift from Deficit",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSumo%20deadlift.gif?alt=media&token=cb3a2e50-6574-4b90-acb0-7ebe3a144675",
     "type": "olympic_weightlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -681,6 +766,7 @@
   },
   {
     "name": "Power Snatch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPower%20Snatch.jpeg?alt=media&token=ad643689-b483-4c92-8299-e9609a775543",
     "type": "olympic_weightlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -689,6 +775,7 @@
   },
   {
     "name": "Power Clean from Blocks",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPower%20Clean%20from%20Blocks.gif?alt=media&token=08d933fe-7926-4b8f-87f3-4bc72d4e35f9",
     "type": "olympic_weightlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -697,6 +784,7 @@
   },
   {
     "name": "Natural Glute Ham Raise",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FNatural%20Glute%20Ham%20Raise.gif?alt=media&token=28bdf541-5dae-468b-bae4-db9217bf4752",
     "type": "strength",
     "muscle": "hamstrings",
     "equipment": "body_only",
@@ -705,6 +793,7 @@
   },
   {
     "name": "Glute ham raise-",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FGlute%20ham%20raise.gif?alt=media&token=2e210240-9f8e-4ee2-979b-33c784e0547b",
     "type": "strength",
     "muscle": "hamstrings",
     "equipment": "none",
@@ -713,6 +802,7 @@
   },
   {
     "name": "Snatch Deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSnatch%20Deadlift.gif?alt=media&token=6e8a25bd-b759-4660-9f59-120d078cdc16",
     "type": "olympic_weightlifting",
     "muscle": "hamstrings",
     "equipment": "barbell",
@@ -721,6 +811,7 @@
   },
   {
     "name": "Weighted pull-up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWeighted%20pull-up.gif?alt=media&token=e40f8cb9-c1a9-4e10-a0ee-5906e29f2f39",
     "type": "strength",
     "muscle": "lats",
     "equipment": "other",
@@ -729,6 +820,7 @@
   },
   {
     "name": "Pullups",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPullups.jpeg?alt=media&token=0054ffc3-77d1-4298-a5fc-b09ed58bca61",
     "type": "strength",
     "muscle": "lats",
     "equipment": "body_only",
@@ -737,6 +829,7 @@
   },
   {
     "name": "Rocky Pull-Ups/Pulldowns",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRocky%20Pull-Ups%20Pulldowns.gif?alt=media&token=0b62e50d-becc-43aa-90ae-8f5ac51c43bc",
     "type": "strength",
     "muscle": "lats",
     "equipment": "other",
@@ -745,6 +838,7 @@
   },
   {
     "name": "Close-grip pull-down",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClose-grip%20pull-down.jpeg?alt=media&token=fd8ef400-7b26-4cb7-90fa-5eafd19612c8",
     "type": "strength",
     "muscle": "lats",
     "equipment": "cable",
@@ -753,6 +847,7 @@
   },
   {
     "name": "Pull-up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPull-up.gif?alt=media&token=b7fcaa23-684b-4d3b-9d48-7e940daf2b8d",
     "type": "strength",
     "muscle": "lats",
     "equipment": "body_only",
@@ -761,6 +856,7 @@
   },
   {
     "name": "Muscle Up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FMuscle%20Up.gif?alt=media&token=dcb1dd4a-5c88-46cb-abd7-9fdf728530ce",
     "type": "strength",
     "muscle": "lats",
     "equipment": "body_only",
@@ -769,6 +865,7 @@
   },
   {
     "name": "Shotgun row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FShotgun%20row.jpeg?alt=media&token=88099efa-a32f-4a75-9cad-d9aeb3ff2416",
     "type": "strength",
     "muscle": "lats",
     "equipment": "cable",
@@ -777,6 +874,7 @@
   },
   {
     "name": "Close-Grip Front Lat Pulldown",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClose-Grip%20Front%20Lat%20Pulldown.gif?alt=media&token=aae6676a-30b5-4bee-86c2-d75f8e8877ed",
     "type": "strength",
     "muscle": "lats",
     "equipment": "cable",
@@ -785,6 +883,7 @@
   },
   {
     "name": "V-bar pull-up",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FV-bar%20pull-up.gif?alt=media&token=64c46fe1-5a43-4f68-a181-90eb9d51cdc0",
     "type": "strength",
     "muscle": "lats",
     "equipment": "None",
@@ -793,6 +892,7 @@
   },
   {
     "name": "Rope climb",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRope%20climb.jpeg?alt=media&token=5d9c1606-e210-4deb-b0db-126be48e6e94",
     "type": "strength",
     "muscle": "lats",
     "equipment": "body_only",
@@ -801,6 +901,7 @@
   },
   {
     "name": "Atlas Stones",
+    "gifurl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FAtlas%20Stones.gif?alt=media&token=e694ebd3-6e90-4267-a23b-cdc741365f81",
     "type": "strongman",
     "muscle": "lower_back",
     "equipment": "other",
@@ -809,6 +910,7 @@
   },
   {
     "name": "Barbell deficit deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20deficit%20deadlift.gif?alt=media&token=07782e43-78c7-4c22-9b95-29ef425aa194",
     "type": "powerlifting",
     "muscle": "lower_back",
     "equipment": "barbell",
@@ -817,6 +919,7 @@
   },
   {
     "name": "Back extension",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBack%20extension.gif?alt=media&token=643b6a7e-131a-45ca-a56d-a93cdfbae8ee",
     "type": "strength",
     "muscle": "lower_back",
     "equipment": "body_only",
@@ -825,6 +928,7 @@
   },
   {
     "name": "Axle Deadlift",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FAxle%20Deadlift.gif?alt=media&token=2df9c454-b3f1-46eb-a764-e6fb7345240e",
     "type": "strongman",
     "muscle": "lower_back",
     "equipment": "other",
@@ -833,6 +937,7 @@
   },
   {
     "name": "Hyperextensions With No Hyperextension Bench",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FHyperextensions%20With%20No%20Hyperextension%20Bench.jpeg?alt=media&token=1b8b2e77-3234-42df-b722-3731053f623e",
     "type": "strength",
     "muscle": "lower_back",
     "equipment": "body_only",
@@ -841,6 +946,7 @@
   },
   {
     "name": "Deadlift with Bands",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDeadlift%20with%20Bands.gif?alt=media&token=65555ee0-b318-4390-afd4-89f602abb646",
     "type": "powerlifting",
     "muscle": "lower_back",
     "equipment": "barbell",
@@ -849,6 +955,7 @@
   },
   {
     "name": "Deadlift with Bands",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDeadlift%20with%20Bands.gif?alt=media&token=65555ee0-b318-4390-afd4-89f602abb646",
     "type": "powerlifting",
     "muscle": "lower_back",
     "equipment": "barbell",
@@ -857,6 +964,7 @@
   },
   {
     "name": "Deadlift with Chains",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDeadlift%20with%20Chains.gif?alt=media&token=503a0160-3dd7-4112-92db-ffb6f3097991",
     "type": "powerlifting",
     "muscle": "lower_back",
     "equipment": "barbell",
@@ -865,6 +973,7 @@
   },
   {
     "name": "Rack Pull with Bands",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRack%20Pull%20with%20Bands.gif?alt=media&token=cedb536f-0eb4-4c5b-ba47-28c7f268fdab",
     "type": "powerlifting",
     "muscle": "lower_back",
     "equipment": "barbell",
@@ -873,6 +982,7 @@
   },
   {
     "name": "Superman",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSuperman.gif?alt=media&token=0ae2fbc7-b05b-4274-9c75-9dc4d8aa3c2d",
     "type": "stretching",
     "muscle": "lower_back",
     "equipment": "body_only",
@@ -881,6 +991,7 @@
   },
   {
     "name": "T-Bar Row with Handle",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FT-Bar%20Row%20with%20Handle.gif?alt=media&token=eaff22fc-cc84-492b-acd8-6999bb62c669",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "other",
@@ -889,6 +1000,7 @@
   },
   {
     "name": "Reverse-grip bent-over row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FReverse-grip%20bent-over%20row.gif?alt=media&token=6cffc8a1-7b31-4119-ba39-e22d412edf81",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "barbell",
@@ -897,6 +1009,7 @@
   },
   {
     "name": "One-Arm Dumbbell Row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FOne-Arm%20Dumbbell%20Row.gif?alt=media&token=1575bc5c-aeeb-43b1-aa78-e557cdf53a54",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "dumbbell",
@@ -905,6 +1018,7 @@
   },
   {
     "name": "One-Arm Long Bar Row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FOne-Arm%20Long%20Bar%20Row-.gif?alt=media&token=5834c505-3a5b-41c6-ac79-437371fde3ad",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "barbell",
@@ -913,6 +1027,7 @@
   },
   {
     "name": "T-Bar Row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FT-Bar%20Row.gif?alt=media&token=c660fd9a-ccc0-4992-a76f-1609e1b26cbf",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "other",
@@ -921,6 +1036,7 @@
   },
   {
     "name": "Bent Over Two-Arm Long Bar Row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBent%20Over%20Two-Arm%20Long%20Bar%20Row.gif?alt=media&token=2dc92933-e77b-4ba3-be4d-ddbee4b6da1b",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "barbell",
@@ -929,6 +1045,7 @@
   },
   {
     "name": "Alternating sit-through with crunch",
+    "gifUrl" : "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FAlternating%20sit-through%20with%20crunch.gif?alt=media&token=19b9a52f-83aa-41f7-a35a-ed03cc1839c4",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "other",
@@ -937,6 +1054,7 @@
   },
   {
     "name": "Rower",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FRower.gif?alt=media&token=218f6a77-9367-4e69-b4b0-6c5b81ffc432",
     "type": "cardio",
     "muscle": "middle_back",
     "equipment": "machine",
@@ -945,6 +1063,7 @@
   },
   {
     "name": "Seated Cable Rows",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSeated%20Cable%20Rows.gif?alt=media&token=6df5e2e3-5b30-44a0-b04f-6c938e5954c6",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "cable",
@@ -953,6 +1072,7 @@
   },
   {
     "name": "Incline dumbbell row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSeated%20Cable%20Rows.gif?alt=media&token=6df5e2e3-5b30-44a0-b04f-6c938e5954c6",
     "type": "strength",
     "muscle": "middle_back",
     "equipment": "dumbbell",
@@ -961,6 +1081,7 @@
   },
   {
     "name": "Lying Face Down Plate Neck Resistance",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLying%20Face%20Down%20Plate%20Neck%20Resistance.gif?alt=media&token=a821d11a-ce91-46b3-9921-42660b9d3ef1",
     "type": "strength",
     "muscle": "neck",
     "equipment": "other",
@@ -969,6 +1090,7 @@
   },
   {
     "name": "Lying Face Up Plate Neck Resistance",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLying%20Face%20Up%20Plate%20Neck%20Resistance.jpg?alt=media&token=ce46ae74-43ef-4ee4-855c-8810416e3677",
     "type": "strength",
     "muscle": "neck",
     "equipment": "other",
@@ -977,6 +1099,7 @@
   },
   {
     "name": "Seated Head Harness Neck Resistance",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSeated%20Head%20Harness%20Neck%20Resistance.gif?alt=media&token=7c3b994e-61ec-49c0-aa18-3e138b7947db",
     "type": "strength",
     "muscle": "neck",
     "equipment": "other",
@@ -985,6 +1108,7 @@
   },
   {
     "name": "Isometric Neck Exercise - Sides",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIsometric%20Neck%20Exercise%20-%20Sides.gif?alt=media&token=2cc5c788-3b61-43c4-888c-ce420c16dc55",
     "type": "strength",
     "muscle": "neck",
     "equipment": "body_only",
@@ -993,6 +1117,7 @@
   },
   {
     "name": "Isometric Neck Exercise - Front And Back",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FIsometric%20Neck%20Exercise%20-%20Front%20And%20Back.gif?alt=media&token=0645b2e4-8500-4ec8-9417-b46468150002",
     "type": "strength",
     "muscle": "neck",
     "equipment": "body_only",
@@ -1001,6 +1126,7 @@
   },
   {
     "name": "Neck Bridge Prone",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FNeck%20Bridge%20Prone.gif?alt=media&token=814251c5-16b5-4b6a-9e3d-2c1051f9bd58",
     "type": "strength",
     "muscle": "neck",
     "equipment": "body_only",
@@ -1009,6 +1135,7 @@
   },
   {
     "name": "Side Neck Stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSide%20Neck%20Stretch.gif?alt=media&token=ae50574b-6060-43b8-ad21-f7908843793f",
     "type": "stretching",
     "muscle": "neck",
     "equipment": "body_only",
@@ -1017,6 +1144,7 @@
   },
   {
     "name": "Chin To Chest Stretch",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FChin%20To%20Chest%20Stretch.gif?alt=media&token=687901cd-b573-4863-b20a-73b8b76fe5c0",
     "type": "stretching",
     "muscle": "neck",
     "equipment": "None",
@@ -1025,6 +1153,7 @@
   },
   {
     "name": "Neck-SMR",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FNeck-SMR.gif?alt=media&token=035c73ef-2dba-4e38-a39a-bb073f7bf0a8",
     "type": "stretching",
     "muscle": "neck",
     "equipment": "body_only",
@@ -1033,6 +1162,7 @@
   },
   {
     "name": "Neck-SMR",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FNeck-SMR.gif?alt=media&token=035c73ef-2dba-4e38-a39a-bb073f7bf0a8",
     "type": "stretching",
     "muscle": "neck",
     "equipment": "body_only",
@@ -1041,6 +1171,7 @@
   },
   {
     "name": "Single-Leg Press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-Leg%20Press.gif?alt=media&token=03ceeca3-2f85-4db3-971b-08455ecdb6a4",
     "type": "strength",
     "muscle": "quadriceps",
     "equipment": "machine",
@@ -1049,6 +1180,7 @@
   },
   {
     "name": "Clean from Blocks",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FClean%20from%20Blocks.gif?alt=media&token=f49f420b-c2c0-4b32-9d29-ad3c0bba0f3a",
     "type": "olympic_weightlifting",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1057,6 +1189,7 @@
   },
   {
     "name": "Barbell Full Squat",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20Full%20Squat.jpeg?alt=media&token=9e1e2bc2-4817-443a-b865-832938a5135a",
     "type": "strength",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1065,6 +1198,7 @@
   },
   {
     "name": "Tire flip",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FTire%20flip.gif?alt=media&token=d4254b3a-5569-401b-a79f-a2ebc6fd94ae",
     "type": "strongman",
     "muscle": "quadriceps",
     "equipment": "other",
@@ -1073,6 +1207,7 @@
   },
   {
     "name": "Barbell back squat to box",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20back%20squat%20to%20box.gif?alt=media&token=efaa7c08-5210-4c10-a679-f479840367d6",
     "type": "powerlifting",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1081,6 +1216,7 @@
   },
   {
     "name": "Push-press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPush-press.gif?alt=media&token=bfacbca1-bfa1-408b-867b-24b7aa7125a7",
     "type": "olympic_weightlifting",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1089,6 +1225,7 @@
   },
   {
     "name": "Power snatch-",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPower%20Snatch.jpeg?alt=media&token=ad643689-b483-4c92-8299-e9609a775543",
     "type": "olympic_weightlifting",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1097,6 +1234,7 @@
   },
   {
     "name": "Hang Clean",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FHang%20Clean.gif?alt=media&token=a87085f2-66cf-4ef6-9a52-959402d63e85",
     "type": "olympic_weightlifting",
     "muscle": "quadriceps",
     "equipment": "barbell",
@@ -1105,6 +1243,7 @@
   },
   {
     "name": "Reverse Band Box Squat",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FReverse%20Band%20Box%20Squat.gif?alt=media&token=cdf0efd4-6767-4f44-8efb-72018d14b504",
     "type": "powerlifting",
     "muscle": "quadriceps",
     "equipment": "None",
@@ -1113,6 +1252,7 @@
   },
   {
     "name": "Jumping rope",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FJumping%20rope.gif?alt=media&token=bb023f21-8c79-4593-ab20-35ff14d8adbb",
     "type": "cardio",
     "muscle": "quadriceps",
     "equipment": "body_only",
@@ -1121,6 +1261,7 @@
   },
   {
     "name": "Smith machine shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSmith%20machine%20shrug.gif?alt=media&token=0418263c-36ec-43d6-b52b-5fe704cc0b8a",
     "type": "strength",
     "muscle": "traps",
     "equipment": "machine",
@@ -1129,6 +1270,7 @@
   },
   {
     "name": "Leverage Shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FLeverage%20Shrug.gif?alt=media&token=735d6c6c-f61b-4787-a201-d0170849707c",
     "type": "strength",
     "muscle": "traps",
     "equipment": "machine",
@@ -1137,6 +1279,7 @@
   },
   {
     "name": "Standing dumbbell shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding%20dumbbell%20shrug.gif?alt=media&token=e51e05fc-d718-468f-975c-caddd1d61e43",
     "type": "strength",
     "muscle": "traps",
     "equipment": "dumbbell",
@@ -1145,6 +1288,7 @@
   },
   {
     "name": "Standing dumbbell upright row",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FStanding%20dumbbell%20upright%20row.gif?alt=media&token=7b0c85e4-32bd-465c-9ee5-ca56ef5c6355",
     "type": "strength",
     "muscle": "traps",
     "equipment": "dumbbell",
@@ -1153,6 +1297,7 @@
   },
   {
     "name": "Kettlebell sumo deadlift high pull",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FKettlebell%20sumo%20deadlift%20high%20pull.gif?alt=media&token=553c7700-f5b4-48bf-9256-5ae67f8b65e0",
     "type": "strength",
     "muscle": "traps",
     "equipment": "kettlebells",
@@ -1161,6 +1306,7 @@
   },
   {
     "name": "Calf-Machine Shoulder Shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FCalf-Machine%20Shoulder%20Shrug.gif?alt=media&token=3f078060-2f00-4183-bb4e-c135761640b0",
     "type": "strength",
     "muscle": "traps",
     "equipment": "machine",
@@ -1169,6 +1315,7 @@
   },
   {
     "name": "Kettlebell sumo deadlift high pull",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FKettlebell%20sumo%20deadlift%20high%20pull.gif?alt=media&token=553c7700-f5b4-48bf-9256-5ae67f8b65e0",
     "type": "strength",
     "muscle": "traps",
     "equipment": "kettlebells",
@@ -1177,6 +1324,7 @@
   },
   {
     "name": "Calf-Machine Shoulder Shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FCalf-Machine%20Shoulder%20Shrug.gif?alt=media&token=3f078060-2f00-4183-bb4e-c135761640b0",
     "type": "strength",
     "muscle": "traps",
     "equipment": "machine",
@@ -1185,6 +1333,7 @@
   },
   {
     "name": "Barbell shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20shrug.jpeg?alt=media&token=70416d27-8711-4c9f-8081-be12d024c93f",
     "type": "strength",
     "muscle": "traps",
     "equipment": "barbell",
@@ -1193,6 +1342,7 @@
   },
   {
     "name": "Barbell behind-the-back shrug",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FBarbell%20behind-the-back%20shrug.gif?alt=media&token=18b82d5e-98d3-492c-b5f8-b22f36e5b361",
     "type": "strength",
     "muscle": "traps",
     "equipment": "barbell",
@@ -1201,6 +1351,7 @@
   },
   {
     "name": "Triceps dip",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FTriceps%20dip.gif?alt=media&token=5e21e3ec-97a0-41bb-b0e6-92e6e765b3e7",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "body_only",
@@ -1209,6 +1360,7 @@
   },
   {
     "name": "Decline EZ-bar skullcrusher",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDecline%20EZ-bar%20skullcrusher.gif?alt=media&token=cef43df1-333a-44ed-8763-48d2555cb130",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "e-z_curl_bar",
@@ -1217,6 +1369,7 @@
   },
   {
     "name": "Dumbbell floor press",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FDumbbell%20floor%20press.gif?alt=media&token=2d1d095e-70dc-40dc-aa20-868a29df9e06",
     "type": "powerlifting",
     "muscle": "triceps",
     "equipment": "dumbbell",
@@ -1225,6 +1378,7 @@
   },
   {
     "name": "Cable V-bar push-down",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FCable%20V-bar%20push-down.jpeg?alt=media&token=dae4a384-58e8-45b9-adc2-d9b758824a01",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "cable",
@@ -1233,6 +1387,7 @@
   },
   {
     "name": "Weighted bench dip",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FWeighted%20bench%20dip.gif?alt=media&token=91d7c1d9-7802-4dbe-8bea-212ea83c4e97",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "body_only",
@@ -1241,6 +1396,7 @@
   },
   {
     "name": "EZ-Bar Skullcrusher",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FEZ-Bar%20Skullcrusher.gif?alt=media&token=b163a283-927f-4d3f-aa5c-a0fa26238bde",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "e-z_curl_bar",
@@ -1249,6 +1405,7 @@
   },
   {
     "name": "Reverse Grip Triceps Pushdown",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FReverse%20Grip%20Triceps%20Pushdown.gif?alt=media&token=3b821f7f-aefd-4ace-898f-b2e115b2701c",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "cable",
@@ -1257,6 +1414,7 @@
   },
   {
     "name": "Push-Ups - Close Triceps Position",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FPush-Ups%20-%20Close%20Triceps%20Position.jpeg?alt=media&token=d2deb055-c044-4647-9290-bdfced22aa6b",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "body_only",
@@ -1265,6 +1423,7 @@
   },
   {
     "name": "Kneeling cable triceps extension",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FKneeling%20cable%20triceps%20extension.jpeg?alt=media&token=8e272d9b-29ec-41ff-804d-0f9eb1f8a287",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "cable",
@@ -1273,6 +1432,7 @@
   },
   {
     "name": "Single-arm cable triceps extension",
+    "gifUrl": "https://firebasestorage.googleapis.com/v0/b/image-gallery-ff4ad.appspot.com/o/Exercise%20Gif%2FSingle-arm%20cable%20triceps%20extension.gif?alt=media&token=4c18aa4d-cd84-4f5a-b540-542e21f4f765",
     "type": "strength",
     "muscle": "triceps",
     "equipment": "cable",
