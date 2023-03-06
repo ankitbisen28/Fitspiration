@@ -4,11 +4,12 @@ import { Typography, Stack, Button } from '@mui/material';
 import BodyPartImage from '../assets/icons/body-part.png'
 import TargetImage from '../assets/icons/target.png'
 import EquipmentImage from '../assets/icons/equipment.png'
-import exerciseImage from '../assets/images/exerciseImg.gif';
+// import exerciseImage from '../assets/images/exerciseImg.gif';
 
 export const Detail = ({ exerciseDetail }) => {
 
-  const { name , type, equipment, muscle, instructions, difficulty } = exerciseDetail;
+  const { name , type, equipment, muscle, instructions, difficulty, gifUrl } = exerciseDetail;
+  console.log(exerciseDetail)
 
 
   const extraDetail = [
@@ -28,7 +29,7 @@ export const Detail = ({ exerciseDetail }) => {
 
   return (
     <Stack gap="60px" sx={{ flexDirection: { lg: 'row' }, p: '20px', alignItems: 'center' }}>
-    <img src={exerciseImage} alt={name} loading="lazy" className="detail-image" />
+    <img src={gifUrl} alt={name} loading="lazy" className="detail-image" />
     <Stack sx={{ gap: { lg: '35px', xs: '20px' } }}>
       <Typography sx={{ fontSize: { lg: '64px', xs: '30px' } }} fontWeight={700} textTransform="capitalize">
         {name}
