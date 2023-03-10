@@ -1,6 +1,6 @@
 import React from "react";
 import { Stack, Typography } from "@mui/material";
-import Icon from "../assets/icons/gym.png";
+import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 
 export const BodyPart = ({ item, setBodyPart, bodyPart }) => {
 
@@ -15,7 +15,7 @@ export const BodyPart = ({ item, setBodyPart, bodyPart }) => {
       sx={
         bodyPart === item
           ? {
-              borderTop: "4px solid #FF2625",
+              borderTop: "4px solid #898121",
               background: "#fff",
               borderBottomLeftRadius: "20px",
               width: "270px",
@@ -37,7 +37,7 @@ export const BodyPart = ({ item, setBodyPart, bodyPart }) => {
         window.scrollTo({ top: 1800, left: 100, behavior: "smooth" });
       }}
     >
-      <img src={Icon} alt="dumbbel" style={{ width: "40px", height: "40px" }} />
+      <FitnessCenterIcon color="primary" sx={{width: "40px", height: "40px"}}/>
       <Typography
         fontSize="15px"
         fontWeight="bold"
