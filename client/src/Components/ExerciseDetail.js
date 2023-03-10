@@ -4,7 +4,7 @@ import { Box } from "@mui/material";
 
 import { Detail } from './Detail';
 import { ExerciseVideos } from './ExerciseVideos';
-import { SimilarExercise } from './SimilarExercise';
+// import { SimilarExercise } from './SimilarExercise';
 
 import { fetchData, exerciseOptions, youtubeOptions } from '../utils/fetchData'
 
@@ -13,7 +13,7 @@ export const ExerciseDetail = () => {
   const [exerciseDetail, setExerciseDetail] = useState({});
   const [exerciseVideos, setexerciseVideos] = useState([]);
   const { id } = useParams();
-  console.log(exerciseVideos)
+  // console.log(exerciseVideos)
 
   useEffect(()=> {
     const fetchExercisesData = async () => {
@@ -35,7 +35,7 @@ export const ExerciseDetail = () => {
     <Box>
       <Detail exerciseDetail={exerciseDetail}/> 
       <ExerciseVideos exerciseVideos={exerciseVideos} name={exerciseDetail.name} /> 
-      <SimilarExercise /> 
+      {/* <SimilarExercise />  */}
     </Box>
   )
 }

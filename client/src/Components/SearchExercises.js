@@ -42,7 +42,7 @@ export const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
   };
 
   return (
-    <Stack alignItems="center" mt="37px" justifyContent="center" p="20px">
+    <Stack alignItems="center" style={{backgroundColor : "#F7F1E5"}} mt="37px" justifyContent="center" p="20px">
       <Typography
         fontWeight={700}
         sx={{ fontSize: { lg: "44px", xs: "30px" } }}
@@ -61,7 +61,7 @@ export const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
             },
             width: {
               lg: "800px",
-              xs: "350px",
+              xs: "300px",
             },
             backgroundColor: "#fff",
             borderRadius: "40px",
@@ -74,8 +74,9 @@ export const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
         />
         <Button
           onClick={handleSearch}
+          variant="contained"
+          color="primary"
           sx={{
-            backgroundColor: "#ff2625",
             color: "#fff",
             textTransform: "none",
             width: { lg: "175px", xs: "80px" },
