@@ -5,7 +5,7 @@ import { Home } from "./Components/Home";
 import { ExerciseDetail } from "./Components/ExerciseDetail";
 import { Navbar } from "./Components/Navbar";
 import { Footer } from "./Components/Footer";
-import { About } from "./Components/About";
+import { About } from "./Components/About/About";
 
 function App() {
   return (
