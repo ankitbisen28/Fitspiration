@@ -5,7 +5,12 @@ import { Home } from "./Components/Home";
 import { ExerciseDetail } from "./Components/ExerciseDetail";
 import { Navbar } from "./Components/Navbar";
 import { Footer } from "./Components/Footer";
+<<<<<<< HEAD
 import { About } from "./Components/About";
+||||||| 3bfbff0
+=======
+import { About } from "./Components/About/About";
+>>>>>>> master
 
 function App() {
   return (
